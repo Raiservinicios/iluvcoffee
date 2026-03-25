@@ -31,7 +31,8 @@ git clone https://github.com/Raiservinicios/iluvcoffee.git
 Instale as dependências:
 
 npm install
-Rode o projeto:
 
+Rode o projeto:
 npm run start:dev
+
 A API vai subir em: http://localhost:3000/coffees
